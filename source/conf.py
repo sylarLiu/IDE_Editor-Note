@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'IDE and Editor Note'
+project = 'IDE and Editor'
 copyright = '2019, sylar.liu'
 author = 'sylar.liu'
 
